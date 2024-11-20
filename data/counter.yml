@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "CAFÉ HECHO CON AMOR"
 counter_item: 
-  - title: "Happy Clients"
+  - title: "Sonrisas"
     number: "250"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Cafes preparados"
+    number: "1100"
 
-  - title: "Cups of coffee"
+  - title: "Momentos en familia"
     number: "350"
 
-  - title: "Telephone Talks"
+  - title: "Charlas entre amigos"
     number: "775"
