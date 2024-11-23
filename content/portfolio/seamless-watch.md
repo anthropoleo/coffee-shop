@@ -2,7 +2,7 @@
 title: "Bebidas - CAFÉS"
 date: 2024-11-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/cafes-image-one.jpg"
+image: "images/projects/cafes-image-one-THUMB.jpg" # THUMBNAIL
 category: ["MENU"]
 project_images: ["images/projects/cafes-image-one.jpg"]
 ---

@@ -2,7 +2,7 @@
 title: "Bebidas - Frías"
 date: 2024-11-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/bebidas-frias-image-one.jpg" # THUMBNAIL
+image: "images/projects/bebidas-frias-image-one-THUMB.jpg" # THUMBNAIL
 category: ["MENU"]
 project_images: ["images/projects/bebidas-frias-image-one.jpg"]
 ---

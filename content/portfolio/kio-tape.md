@@ -2,7 +2,7 @@
 title: "Comidas - Dulces"
 date: 2024-11-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/dulces-image-one.jpg" # THUMBNAIL
+image: "images/projects/dulces-image-one-THUMB.jpg" # THUMBNAIL
 category: ["MENU"]
 project_images: ["images/projects/dulces-image-one.jpg"]
 ---

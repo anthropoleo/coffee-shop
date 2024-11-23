@@ -1,18 +1,18 @@
-enable  : false
-# title   : "OPINION FROM REAL PEOPLE"
-# subtitle: "What clients says about our services."
-# testimonial_item :
-#   - thumb : "images/testimonial/user-thumb-one.jpg"
-#     name  : "Simonns Hodge"
-#     company_position: "CEO, Credito"
-#     quote : > 
-#             "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+enable  : true
+title   : "NUESTROS PROVEEDORES DE COSAS RICAS"
+subtitle: "En IMPULSO vendemos comidas hechas por cocineros de Canelones. Estos y estas son algunos de nuestros proveedores."
+testimonial_item :
+  - thumb : "images/testimonial/rosana.jpg"
+    name  : "Rosana"
+    company_position: "Cocinera"
+    quote : > 
+            "Rosana es una cocinera de Canelones. Se dedica a cocinar comidas ricas y saludables. 
 
-#   - thumb : "images/testimonial/user-thumb-two.jpg"
-#     name  : "Rekon Montino"
-#     company_position: "CDO, Bulmuci"
-#     quote : > 
-#             "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Gaston"
+    company_position: "Pastelero"
+    quote : > 
+            "Gaston hace pastelitos" 
 
 #   - thumb : "images/testimonial/user-thumb-three.jpg"
 #     name  : "Ryan Hillary"

@@ -2,7 +2,7 @@
 title: "Comidas - Salados"
 date: 2024-11-23T15:56:43+06:00
 type: portfolio
-image: "images/projects/salados-thumb.jpg"
+image: "images/projects/salados thum.jpg" # THUMBNAIL
 category: ["MENU"]
 project_images: ["images/projects/salados-thumb.jpg"]
 ---
