@@ -84,7 +84,7 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = "NUESTRO RICO MENÚ"
-    subtitle  = "Disfruta de nuestras deliciosas bebidas y pasteles en un ambiente relajado."
+    subtitle  = "Disfruta de cosas ricas entre amigos."
     view_project = "view project"
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
