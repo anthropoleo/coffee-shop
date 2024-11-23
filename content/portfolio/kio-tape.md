@@ -2,9 +2,9 @@
 title: "Comidas - Dulces"
 date: 2024-11-23T20:56:42+06:00
 type: portfolio
-image: "images/products/dulces-thumb.jpg"
+image: "images/projects/dulces-image-one.jpg" # THUMBNAIL
 category: ["MENU"]
-project_images: ["images/products/dulces-image-one.jpg", "images/products/dulces-image-two.jpg"]
+project_images: ["images/projects/dulces-image-one.jpg"]
 ---
 
 En IMPULSO CAFÉ, ofrecemos una selección de dulces artesanales que combinan recetas tradicionales y sabores modernos. Cada bocado está pensado para deleitar tus sentidos.

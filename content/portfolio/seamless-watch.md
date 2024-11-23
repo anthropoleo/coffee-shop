@@ -2,9 +2,9 @@
 title: "Bebidas - CAFÉS"
 date: 2024-11-23T15:55:44+06:00
 type: portfolio
-image: "images/products/cafes-thumb.jpg"
+image: "images/projects/cafes-image-one.jpg"
 category: ["MENU"]
-project_images: ["images/products/cafes-image-one.jpg", "images/products/cafes-image-two.jpg"]
+project_images: ["images/projects/cafes-image-one.jpg"]
 ---
 
 En IMPULSO CAFÉ, ofrecemos una amplia variedad de cafés y bebidas calientes preparadas con pasión y granos de alta calidad. Nuestro objetivo es brindar una experiencia cálida y memorable en cada taza.

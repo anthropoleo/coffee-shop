@@ -2,9 +2,9 @@
 title: "Bebidas - Frías"
 date: 2024-11-23T15:58:10+06:00
 type: portfolio
-image: "images/products/bebidas-frias-thumb.jpg"
+image: "images/projects/bebidas-frias-image-one.jpg" # THUMBNAIL
 category: ["MENU"]
-project_images: ["images/products/bebidas-frias-image-one.jpg", "images/products/bebidas-frias-image-two.jpg"]
+project_images: ["images/projects/bebidas-frias-image-one.jpg"]
 ---
 
 En IMPULSO CAFÉ, entendemos la importancia de mantenerte fresco. Por eso, hemos creado un menú de bebidas frías que combinan sabores únicos y refrescantes.
