@@ -1,5 +1,5 @@
 ---
-title: "IMPULSO CAFÉ - CAFÉS"
+title: "Bebidas - CAFÉS"
 date: 2024-11-23T15:55:44+06:00
 type: portfolio
 image: "images/products/cafes-thumb.jpg"
@@ -13,7 +13,7 @@ Nuestro menú de cafés incluye:
 
 - **Espresso**: Un clásico italiano, intenso y aromático. **Precio:** $120
 - **Latte (con arte latte)**: Café suave con leche espumosa y un diseño artístico. **Precio:** $160
-- **Capuccino**: Perfecto equilibrio entre espresso, leche y espuma. **Precio:** $170
+- **Capuccino**: Perfecto equilibrio entre espresso, leche y espuma y chocolate. **Precio:** $170
 - **Chocolate caliente**: Cremoso y reconfortante, disponible en versión tradicional o vegana. **Precio:** $180
 - **Té (variedades: verde, negro, hierbas)**: Infusiones seleccionadas para todos los gustos. **Precio:** $110
 
