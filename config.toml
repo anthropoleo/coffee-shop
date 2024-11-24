@@ -16,7 +16,7 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Recetas"
+    name    = "Menu"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
@@ -117,13 +117,13 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "Treinta y tres N 641, Canelones, Uruguay"
-      phone   = "111-111-1111"
-      email   = "impulsocafe@gmail.com"
+      phone   = "091 520 937"
+      email   = "impulsocafecanelones@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Us"
+          name = "Acerca nuestro"
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "Menu"
@@ -132,7 +132,7 @@ summarylength = 25
           name = "Blog"
           url  = "blog"
         [[params.footer.sitemap.link]]
-          name = "Contact"
+          name = "Contacto"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
@@ -145,4 +145,4 @@ summarylength = 25
         title       = "Ofrecemos:"
         description = "cafecito rico<br>comidas<br>atmosfera relajante"
       [params.footer.back_to_top]
-        description = "I want to <br> visit again"
+        description = "Llevame al principio"
