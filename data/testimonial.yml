@@ -12,7 +12,9 @@ testimonial_item :
     name  : "Gaston"
     company_position: "Pastelero"
     quote : > 
-            "Gaston hace pastelitos" 
+            "Gaston hace pastelitos.
+            
+            La mitad se los come y la otra mitad se los vende." 
 
 #   - thumb : "images/testimonial/user-thumb-three.jpg"
 #     name  : "Ryan Hillary"
