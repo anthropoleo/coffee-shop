@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://example.org/" # will change this once I host the web in cloudfare
 languageCode  = "en-us"
 title         = "IMPULSO Café | Canelones, Uruguay"
 theme         = "roxo-hugo"
@@ -85,7 +85,7 @@ summarylength = 25
     enable    = true
     title     = "NUESTRO RICO MENÚ"
     subtitle  = "Disfruta de cosas ricas entre amigos."
-    view_project = "view project"
+    view_project = "Ver menu"
     more_works = "MORE WORKS"
     scroll_down = "scroll down"
 
