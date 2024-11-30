@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/" # will change this once I host the web in cloudfare
+baseURL       = "https://anthropoleo.github.io/coffee-shop/" # GitHub Pages URL
 languageCode  = "en-us"
 title         = "IMPULSO Café | Canelones, Uruguay"
 theme         = "roxo-hugo"
