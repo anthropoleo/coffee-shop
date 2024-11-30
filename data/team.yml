@@ -1,5 +1,5 @@
-enable  : true
-title   : Team that makes the difference.
+enable  : false
+title   : Aca irians las fotos del team.
 members  :
   - image       : images/team/team-member-one.jpg
     name        : PABLO ESCOBAR

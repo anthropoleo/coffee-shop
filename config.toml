@@ -97,7 +97,7 @@ summarylength = 25
     subtitle  = "Disfruta de cosas ricas entre amigos."
     view_project = "Ver menu"
     more_works = "MORE WORKS"
-    scroll_down = "scroll down"
+    scroll_down = "Hacia abajo"
 
     [[params.portfolio.link]]
       name = "Dulces"

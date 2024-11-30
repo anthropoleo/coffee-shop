@@ -37,6 +37,13 @@
       <description>&lt;p&gt;En IMPULSO CAFÉ, ofrecemos una amplia variedad de cafés y bebidas calientes preparadas con pasión y granos de alta calidad. Nuestro objetivo es brindar una experiencia cálida y memorable en cada taza.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Menu Completo</title>
+      <link>http://localhost:1313/portfolio/zmenu_completo/</link>
+      <pubDate>Wed, 23 Oct 2024 20:56:42 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/zmenu_completo/</guid>
+      <description>&lt;p&gt;Aca va a ir el menu completo&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Prueba</title>
       <link>http://localhost:1313/blog/prueba/</link>
       <pubDate>Tue, 30 Jan 2024 12:00:00 -0300</pubDate>

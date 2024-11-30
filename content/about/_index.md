@@ -1,8 +1,8 @@
 ---
-title: "About Us"
+title: "Sobre Nosotros"
 date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+heading : "SOMOS IMPULSO. UNA CAFETERÍA EN CANELONES, URUGUAY, NACIDA DEL SUEÑO DE DOS PRIMOS."
+description : "Impulso es más que una cafetería, es el sueño de Leo y Jonathan, dos primos apasionados por el café. Nos especializamos en ofrecer experiencias únicas a través de nuestras recetas, métodos alternativos de preparación y una dedicación total a la calidad y el sabor en cada taza."
+expertise_title: "Especialidades"
+expertise_sectors: ["Cafés de especialidad", "Métodos de preparación alternativos", "Postres", "Croissants y focaccias", "Espacio acogedor", "Libros", "Productos locales", "Musica"]
 ---

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creamos mejores experiencias para que nuestros clientes disfruten mejores momentos on IMPULSO Café | Canelones, Uruguay</title>
+    <title>Creamos experiencias para que nuestros clientes disfruten lindos momentos on IMPULSO Café | Canelones, Uruguay</title>
     <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content in Creamos mejores experiencias para que nuestros clientes disfruten mejores momentos on IMPULSO Café | Canelones, Uruguay</description>
+    <description>Recent content in Creamos experiencias para que nuestros clientes disfruten lindos momentos on IMPULSO Café | Canelones, Uruguay</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Nov 2024 20:56:42 +0600</lastBuildDate>
@@ -35,6 +35,13 @@
       <pubDate>Sat, 23 Nov 2024 15:55:44 +0600</pubDate>
       <guid>http://localhost:1313/portfolio/seamless-watch/</guid>
       <description>&lt;p&gt;En IMPULSO CAFÉ, ofrecemos una amplia variedad de cafés y bebidas calientes preparadas con pasión y granos de alta calidad. Nuestro objetivo es brindar una experiencia cálida y memorable en cada taza.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Menu Completo</title>
+      <link>http://localhost:1313/portfolio/zmenu_completo/</link>
+      <pubDate>Wed, 23 Oct 2024 20:56:42 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/zmenu_completo/</guid>
+      <description>&lt;p&gt;Aca va a ir el menu completo&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
