@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creamos experiencias para que nuestros clientes disfruten lindos momentos on IMPULSO Café | Canelones, Uruguay</title>
-    <link>http://localhost:1313/portfolio/</link>
+    <link>http://localhost:1313/coffee-shop/portfolio/</link>
     <description>Recent content in Creamos experiencias para que nuestros clientes disfruten lindos momentos on IMPULSO Café | Canelones, Uruguay</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Nov 2024 20:56:42 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/coffee-shop/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comidas - Dulces</title>
-      <link>http://localhost:1313/portfolio/comidas-dulces/</link>
+      <link>http://localhost:1313/coffee-shop/portfolio/comidas-dulces/</link>
       <pubDate>Sat, 23 Nov 2024 20:56:42 +0600</pubDate>
-      <guid>http://localhost:1313/portfolio/comidas-dulces/</guid>
+      <guid>http://localhost:1313/coffee-shop/portfolio/comidas-dulces/</guid>
       <description>&lt;p&gt;En IMPULSO CAFÉ, ofrecemos una selección de dulces artesanales que combinan recetas tradicionales y sabores modernos. Cada bocado está pensado para deleitar tus sentidos.&lt;/p&gt;&#xA;&lt;p&gt;Nuestros dulces incluyen:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bebidas - Frías</title>
-      <link>http://localhost:1313/portfolio/bebidas-frias/</link>
+      <link>http://localhost:1313/coffee-shop/portfolio/bebidas-frias/</link>
       <pubDate>Sat, 23 Nov 2024 15:58:10 +0600</pubDate>
-      <guid>http://localhost:1313/portfolio/bebidas-frias/</guid>
+      <guid>http://localhost:1313/coffee-shop/portfolio/bebidas-frias/</guid>
       <description>&lt;p&gt;En IMPULSO CAFÉ, entendemos la importancia de mantenerte fresco. Por eso, hemos creado un menú de bebidas frías que combinan sabores únicos y refrescantes.&lt;/p&gt;&#xA;&lt;p&gt;Nuestro menú de bebidas frías incluye:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comidas - Salados</title>
-      <link>http://localhost:1313/portfolio/salados/</link>
+      <link>http://localhost:1313/coffee-shop/portfolio/salados/</link>
       <pubDate>Sat, 23 Nov 2024 15:56:43 +0600</pubDate>
-      <guid>http://localhost:1313/portfolio/salados/</guid>
+      <guid>http://localhost:1313/coffee-shop/portfolio/salados/</guid>
       <description>&lt;p&gt;En IMPULSO CAFÉ, ofrecemos opciones saladas recién horneadas y llenas de sabor, perfectas para el desayuno, el almuerzo o un snack.&lt;/p&gt;&#xA;&lt;p&gt;Nuestros productos salados incluyen:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bebidas - CAFÉS</title>
-      <link>http://localhost:1313/portfolio/bebidas-cafes/</link>
+      <link>http://localhost:1313/coffee-shop/portfolio/bebidas-cafes/</link>
       <pubDate>Sat, 23 Nov 2024 15:55:44 +0600</pubDate>
-      <guid>http://localhost:1313/portfolio/bebidas-cafes/</guid>
+      <guid>http://localhost:1313/coffee-shop/portfolio/bebidas-cafes/</guid>
       <description>&lt;p&gt;En IMPULSO CAFÉ, ofrecemos una amplia variedad de cafés y bebidas calientes preparadas con pasión y granos de alta calidad. Nuestro objetivo es brindar una experiencia cálida y memorable en cada taza.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Menu Completo</title>
-      <link>http://localhost:1313/portfolio/zmenu_completo/</link>
+      <link>http://localhost:1313/coffee-shop/portfolio/zmenu_completo/</link>
       <pubDate>Wed, 23 Oct 2024 20:56:42 +0600</pubDate>
-      <guid>http://localhost:1313/portfolio/zmenu_completo/</guid>
+      <guid>http://localhost:1313/coffee-shop/portfolio/zmenu_completo/</guid>
       <description>&lt;p&gt;Aca va a ir el menu completo&lt;/p&gt;</description>
     </item>
   </channel>

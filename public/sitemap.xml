@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/coffee-shop/</loc>
     <lastmod>2024-11-30T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/coffee-shop/blog/</loc>
     <lastmod>2024-11-30T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/kio-tape/</loc>
+    <loc>http://localhost:1313/coffee-shop/portfolio/comidas-dulces/</loc>
     <lastmod>2024-11-23T20:56:42+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/coffee-shop/portfolio/</loc>
     <lastmod>2024-11-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/use-less-brand/</loc>
+    <loc>http://localhost:1313/coffee-shop/portfolio/bebidas-frias/</loc>
     <lastmod>2024-11-23T15:58:10+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/osen-clock/</loc>
+    <loc>http://localhost:1313/coffee-shop/portfolio/salados/</loc>
     <lastmod>2024-11-23T15:56:43+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/seamless-watch/</loc>
+    <loc>http://localhost:1313/coffee-shop/portfolio/bebidas-cafes/</loc>
     <lastmod>2024-11-23T15:55:44+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/zmenu_completo/</loc>
+    <loc>http://localhost:1313/coffee-shop/portfolio/zmenu_completo/</loc>
     <lastmod>2024-10-23T20:56:42+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/prueba/</loc>
+    <loc>http://localhost:1313/coffee-shop/blog/prueba/</loc>
     <lastmod>2024-01-30T12:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/metodos-de-preparacion/</loc>
+    <loc>http://localhost:1313/coffee-shop/blog/metodos-de-preparacion/</loc>
     <lastmod>2024-01-30T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/test-post/</loc>
+    <loc>http://localhost:1313/coffee-shop/blog/test-post/</loc>
     <lastmod>2024-01-30T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/coffee-shop/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/coffee-shop/about/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/coffee-shop/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/coffee-shop/tags/</loc>
   </url>
 </urlset>

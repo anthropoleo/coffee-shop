@@ -41,7 +41,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          submodules: recursive
+          submodules: true
+          fetch-depth: 0
+      
+      - name: Update theme submodule
+        run: |
+          git submodule update --init --recursive
+          cd themes/roxo-hugo
+          git checkout eac3f49bc57315701ca29498525078bd28c1338b
       
       - name: Setup Pages
         id: pages

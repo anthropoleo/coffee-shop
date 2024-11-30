@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recetas y métodos on IMPULSO Café | Canelones, Uruguay</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:1313/coffee-shop/blog/</link>
     <description>Recent content in Recetas y métodos on IMPULSO Café | Canelones, Uruguay</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2024 12:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/coffee-shop/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prueba</title>
-      <link>http://localhost:1313/blog/prueba/</link>
+      <link>http://localhost:1313/coffee-shop/blog/prueba/</link>
       <pubDate>Tue, 30 Jan 2024 12:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/prueba/</guid>
+      <guid>http://localhost:1313/coffee-shop/blog/prueba/</guid>
       <description>&lt;p&gt;Esta es una prueba del blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Métodos de Preparación de Café</title>
-      <link>http://localhost:1313/blog/metodos-de-preparacion/</link>
+      <link>http://localhost:1313/coffee-shop/blog/metodos-de-preparacion/</link>
       <pubDate>Tue, 30 Jan 2024 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/metodos-de-preparacion/</guid>
+      <guid>http://localhost:1313/coffee-shop/blog/metodos-de-preparacion/</guid>
       <description>&lt;p&gt;Descubrí los diferentes métodos de preparación que ofrecemos en IMPULSO Café. Cada método resalta diferentes aspectos de nuestros granos cuidadosamente seleccionados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;espresso&#34;&gt;Espresso&lt;/h2&gt;&#xA;&lt;p&gt;El espresso es la base de muchas de nuestras bebidas. Extraído a presión, resulta en una bebida concentrada con un delicioso crema dorada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test Blog Post</title>
-      <link>http://localhost:1313/blog/test-post/</link>
+      <link>http://localhost:1313/coffee-shop/blog/test-post/</link>
       <pubDate>Tue, 30 Jan 2024 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/test-post/</guid>
+      <guid>http://localhost:1313/coffee-shop/blog/test-post/</guid>
       <description>&lt;p&gt;This is a test blog post.&lt;/p&gt;</description>
     </item>
   </channel>
