@@ -2,7 +2,7 @@
 name: Deploy Hugo Site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # runs on pushes targeting the default branch
   push:
     branches: ["main"]
 
@@ -21,10 +21,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# default to zsh :)
+# default to bash :)
 defaults:
   run:
-    shell: zsh
+    shell: bash
 
 jobs:
   # build job
