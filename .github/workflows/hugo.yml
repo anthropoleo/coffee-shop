@@ -46,11 +46,12 @@ jobs:
       
       - name: Update theme submodule
         run: |
+          git submodule sync --recursive
           git submodule update --init --recursive
           cd themes/roxo-hugo
           git fetch origin
-          git checkout main
-          git pull origin main
+          git checkout $(git branch -r | grep -v '\->' | head -n 1 | sed 's/origin\///')
+          git pull origin
       
       - name: Setup Pages
         id: pages
