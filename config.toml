@@ -1,8 +1,9 @@
-baseURL       = "https://impulsocafe.com/" # Custom domain
+baseURL       = "https://impulsocafe.com" # Custom domain
 languageCode  = "en-us"
 title         = "IMPULSO Café | Canelones, Uruguay"
 theme         = "roxo-hugo"
 summarylength = 25
+canonifyURLs  = true
 
 # Site Menus
 [menu]
