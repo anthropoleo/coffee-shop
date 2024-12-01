@@ -6,15 +6,13 @@ testimonial_item :
     name  : "Rosana"
     company_position: "Cocinera"
     quote : > 
-            "Rosana es una cocinera de Canelones. Se dedica a cocinar comidas ricas y saludables. 
+            "Rosana es una cocinera de Canelones, dueña de Cuenco donde cocina pastas, panes caseros y pizzas. Rosana es nuestra proveedora de tartas." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Gaston"
-    company_position: "Pastelero"
+  - thumb : "images/testimonial/nico.jpg"
+    name  : "Nico"
+    company_position: "Chef"
     quote : > 
-            "Gaston hace pastelitos.
-            
-            La mitad se los come y la otra mitad se los vende." 
+            "Nicolas es nuestro cocinero estrella de Canelones. Ademas de preparar creaciones para nosotros, tambien cocina para Casa Filgueira y Pizzas Gos." 
 
 #   - thumb : "images/testimonial/user-thumb-three.jpg"
 #     name  : "Ryan Hillary"
