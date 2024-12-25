@@ -11,9 +11,12 @@ En IMPULSO CAFÉ, entendemos la importancia de mantenerte fresco. Por eso, hemos
 
 Nuestro menú de bebidas frías incluye:
 
-- **Agua mineral**: Refrescante y purificada, ideal para hidratarte. **Precio:** $80
-- **Kombucha artesanal**: Una explosión de sabor y probióticos, con opciones de sabores frutales. **Precio:** $200
-- **Jugo natural de naranja**: Exprimido al momento con frutas frescas. **Precio:** $180
-- **Limonada casera**: Mezcla perfecta de acidez y dulzura. **Precio:** $150
+- **Iced Latte**: Refrescante mezcla de café y leche fría. **Precio:** $200
+- **Caramel Iced Latte**: Café frío con un toque dulce de caramelo. **Precio:** $230
+- **Espresso Tonic**: Combinación única de espresso y agua tónica. **Precio:** $250
+- **Jugo de naranja**: Exprimido al momento con frutas frescas. **Precio:** $60
+- **Frapé maracuyá**: Bebida helada con el sabor tropical del maracuyá. **Precio:** $180
+- **Frapé frutos rojos**: Mezcla helada de frutas del bosque. **Precio:** $180
+- **Kombucha**: Refrescante y probiótica, ideal para cuidar tu bienestar. **Precio:** $190
 
 Visitá IMPULSO CAFÉ y disfrutá de nuestras bebidas frías, perfectas para los días calurosos o para acompañar tus comidas favoritas.

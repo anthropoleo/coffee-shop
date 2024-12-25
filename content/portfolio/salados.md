@@ -11,9 +11,7 @@ En IMPULSO CAFÉ, ofrecemos opciones saladas recién horneadas y llenas de sabor
 
 Nuestros productos salados incluyen:
 
-- **Focaccia**: Una base esponjosa con hierbas frescas y aceite de oliva. **Precio:** $180
-- **Croissant clásico**: Mantecoso y con un hojaldre perfecto. **Precio:** $120
-- **Tostado de jamón y queso**: Caliente, crujiente y lleno de sabor. **Precio:** $220
-- **Bagel con queso crema**: Suave y sabroso, una opción perfecta para cualquier momento del día. **Precio:** $240
+- **Focaccia bondiola**: Rúcula, bondiola y queso crema sobre una base esponjosa y sabrosa. **Precio:** $200
+- **Sandwich Caliente**: Jamón y queso derretidos con pan de masa madre, crujiente y delicioso. **Precio:** $200
 
 Visitá IMPULSO CAFÉ y probá nuestra variedad de salados, ideales para acompañar nuestras bebidas calientes o frías.
